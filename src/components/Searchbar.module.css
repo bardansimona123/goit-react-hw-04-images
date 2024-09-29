@@ -1,0 +1,26 @@
+.searchbar {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #3f51b5;
+    padding: 20px;
+  }
+  
+  .form {
+    display: flex;
+  }
+  
+  .input {
+    width: 300px;
+    padding: 10px;
+    margin-right: 10px;
+  }
+  
+  .button {
+    padding: 10px;
+    background-color: #ff6b08;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+  }
+  
